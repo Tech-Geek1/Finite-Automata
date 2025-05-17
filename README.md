@@ -1,1 +1,1 @@
-# Finite-Automata
+# Finite-Automata for image compression and decompression
